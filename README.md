@@ -94,6 +94,7 @@ Kisi(
 portal.fatura_olustur(
     tarih         = "07/10/1995",
     saat          = "14:28:37",
+    para_birimi   = "USD",        #girilmezse varsayılan "TRY"
     vkn_veya_tckn = "11111111111",
     ad            = "Ömer Faruk",
     soyad         = "Sancak",
